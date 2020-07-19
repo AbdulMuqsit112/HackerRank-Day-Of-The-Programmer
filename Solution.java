@@ -17,7 +17,7 @@ public class Solution {
         String s ;
         if(year ==1918)
         {
-            s = "26.09.1919";
+            s = "26.09.1918";
         }
         else if(year <1918)
         {
